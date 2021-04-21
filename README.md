@@ -3,9 +3,9 @@
 <!--
 **mancito321/mancito321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Juan Felipe, also known as mancito. 
 
-- 🔭 I’m currently working on ...
+- :computer: I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mancito321&repo=github-readme-stats&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mancito321&layout=compact" />
+</a>
+<p align="center">My name is Juan Felipe, also known as mancito, here are some facts about me:</p>
+<ul> 
+  <li>:computer: I’m currently working as a front-end engineer at @globant  </li>
+  <li>:video_game:  I love my videogames, my anime and enjoy hanging out in my discord</li>
+  <li>:bulb: I’m currently learning many things... Js, Node, React, UE4 and More </li>
+  <li>⚡ Fun fact: I'm not the only macito there is, but the one everyone call mancito</li>
+</ul>
