@@ -14,12 +14,13 @@ My name is Juan Felipe, also known as mancito.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=juanllanoGL&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=juanllanoGL&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mancito321&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mancito321&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <p align="center">My name is Juan Felipe, also known as mancito, here are some facts about me:</p>
 <ul> 
-  <li>:computer: I’m currently working as a front-end engineer at @gorillalogic  </li>
+  <li>:computer: I’m currently working as a full-stack engineer at @gorillalogic  </li>
   <li>:video_game:  I love my videogames, my anime and enjoy hanging out in my discord</li>
   <li>:bulb: I’m currently learning many things... Js, Node, React, UE4 and More </li>
   <li>⚡ Fun fact: I'm not the only macito there is, but the one everyone call mancito</li>
