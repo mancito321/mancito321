@@ -15,10 +15,13 @@ My name is Juan Felipe, also known as mancito.
 - ⚡ Fun fact: ...
 -->
 
-
+<div>
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mancito321&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mancito321&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+</div>
+<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ </div>
 <p align="center">My name is Juan Felipe, also known as mancito, here are some facts about me:</p>
 <ul> 
   <li>:computer: I’m currently working as a full-stack engineer at @gorillalogic  </li>
